@@ -1,0 +1,7 @@
+pytest==6.2.5
+pytest-html==3.1.1
+pytest-xdist==2.4.0
+requests==2.23.0
+responses==0.10.14
+playwright==1.16.0
+pytest-playwright==0.2.1
